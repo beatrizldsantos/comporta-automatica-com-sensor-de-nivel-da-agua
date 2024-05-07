@@ -1,6 +1,9 @@
 # Sistema Automatizado de Controle de Comporta
 
-![alt text](<Comporta automática com sensor de nível de água - 05_10 (1).png>)
+![alt text](<Circuito.png>)
+
+Acesse o simulador do projeto no TinkerCad:
+https://www.tinkercad.com/things/aFlR8DcoMPI-comporta-automatica-com-sensor-de-nivel-de-agua-0510.
 
 ## Descrição do Projeto
 
@@ -41,7 +44,7 @@ O sistema é composto pelos seguintes componentes:
 
 O sistema foi construído da seguinte forma: 
 
-![alt text](<Comporta automática com sensor de nível de água - 05_10 (1)-1.png>)
+![alt text](<Planta.png>)
   
 ## Funcionamento
 
